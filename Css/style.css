@@ -1,0 +1,34 @@
+body{
+    background: #eee;
+}
+a{
+    color: black;
+}
+.logo{
+    width: 400px;
+}
+.header-wrapper, .nav-ul{
+    display: flex;
+}
+.header-wrapper{
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.nav-li{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    margin-right: 80px;
+    margin-top: 10px;
+}
+.email-adress{
+    width: 500px;
+    margin: 0 auto;
+}
+.email-h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 25px;
+}
+.email{
+}
